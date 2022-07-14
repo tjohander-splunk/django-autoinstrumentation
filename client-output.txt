@@ -1,0 +1,3417 @@
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x7c58c69c789d08fca93a1aaa2a8f4122",
+        "span_id": "0x9b60edf18db15457",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x7c20cc1b074a34c0",
+    "start_time": "2022-07-14T13:48:33.651197Z",
+    "end_time": "2022-07-14T13:48:34.662826Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x7c58c69c789d08fca93a1aaa2a8f4122",
+        "span_id": "0x7c20cc1b074a34c0",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:33.651140Z",
+    "end_time": "2022-07-14T13:48:34.662946Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xa8b935059d26f75afa1e0a0b1fad3fae",
+        "span_id": "0xd72470a1b26053ad",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x88768db23deaf91d",
+    "start_time": "2022-07-14T13:48:34.663277Z",
+    "end_time": "2022-07-14T13:48:35.674127Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xa8b935059d26f75afa1e0a0b1fad3fae",
+        "span_id": "0x88768db23deaf91d",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:34.663139Z",
+    "end_time": "2022-07-14T13:48:35.674214Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x050722a2d71467fb778699e2e49ab31a",
+        "span_id": "0x0f10d74abbe725c2",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x442ef9b0c57242f4",
+    "start_time": "2022-07-14T13:48:35.674550Z",
+    "end_time": "2022-07-14T13:48:36.686539Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x050722a2d71467fb778699e2e49ab31a",
+        "span_id": "0x442ef9b0c57242f4",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:35.674409Z",
+    "end_time": "2022-07-14T13:48:36.686616Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x5be8011af2998665e8831beffaa3cb96",
+        "span_id": "0xbb1bb8935f8f4159",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x6b239b60882767ec",
+    "start_time": "2022-07-14T13:48:36.686942Z",
+    "end_time": "2022-07-14T13:48:37.694804Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x5be8011af2998665e8831beffaa3cb96",
+        "span_id": "0x6b239b60882767ec",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:36.686803Z",
+    "end_time": "2022-07-14T13:48:37.694889Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xe821a0bb1a8ef1bfcb52d3a8b879e5b7",
+        "span_id": "0x61ff963dffc38b46",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xcc8985c6bacd0cef",
+    "start_time": "2022-07-14T13:48:37.695226Z",
+    "end_time": "2022-07-14T13:48:38.702051Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xe821a0bb1a8ef1bfcb52d3a8b879e5b7",
+        "span_id": "0xcc8985c6bacd0cef",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:37.695083Z",
+    "end_time": "2022-07-14T13:48:38.702129Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x2ac17e2a078c1eb97fdef5d5db960e6f",
+        "span_id": "0x5b4ac60a3393ba55",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xd6c81b87cd43131b",
+    "start_time": "2022-07-14T13:48:38.702461Z",
+    "end_time": "2022-07-14T13:48:39.710573Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x2ac17e2a078c1eb97fdef5d5db960e6f",
+        "span_id": "0xd6c81b87cd43131b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:38.702323Z",
+    "end_time": "2022-07-14T13:48:39.710656Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xc9dc401fbd0fb8098dcb1de7fe53dc72",
+        "span_id": "0x09af14008f8d8760",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xe70909a9d913a2b7",
+    "start_time": "2022-07-14T13:48:39.710984Z",
+    "end_time": "2022-07-14T13:48:40.719859Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xc9dc401fbd0fb8098dcb1de7fe53dc72",
+        "span_id": "0xe70909a9d913a2b7",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:39.710843Z",
+    "end_time": "2022-07-14T13:48:40.719940Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x3021f01cab8bb77f4f4c219cc0a2392e",
+        "span_id": "0xb7e7cbbb5c978cc3",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x08359069714fc4fd",
+    "start_time": "2022-07-14T13:48:40.720261Z",
+    "end_time": "2022-07-14T13:48:41.731038Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x3021f01cab8bb77f4f4c219cc0a2392e",
+        "span_id": "0x08359069714fc4fd",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:40.720123Z",
+    "end_time": "2022-07-14T13:48:41.731087Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x377a56e9c23ad7ee4f3efd5ad53613f6",
+        "span_id": "0x9ebb97565f307035",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x634404c995030a4d",
+    "start_time": "2022-07-14T13:48:41.731278Z",
+    "end_time": "2022-07-14T13:48:42.740326Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x377a56e9c23ad7ee4f3efd5ad53613f6",
+        "span_id": "0x634404c995030a4d",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:41.731201Z",
+    "end_time": "2022-07-14T13:48:42.740422Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xbc5769141cf9e431227d8faa7c60d1bb",
+        "span_id": "0xfcbea9ffa8debc3a",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x05a4911dec1ba25c",
+    "start_time": "2022-07-14T13:48:42.740808Z",
+    "end_time": "2022-07-14T13:48:43.752067Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xbc5769141cf9e431227d8faa7c60d1bb",
+        "span_id": "0x05a4911dec1ba25c",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:42.740637Z",
+    "end_time": "2022-07-14T13:48:43.752108Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x64fcd4b0687ada470069bf8aa7e5f158",
+        "span_id": "0xd5ab60162fcbade4",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x3421f811d55edc75",
+    "start_time": "2022-07-14T13:48:43.752262Z",
+    "end_time": "2022-07-14T13:48:44.757766Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x64fcd4b0687ada470069bf8aa7e5f158",
+        "span_id": "0x3421f811d55edc75",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:43.752202Z",
+    "end_time": "2022-07-14T13:48:44.757846Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xe72f2b7d7a52ce39449af57ec765d4bf",
+        "span_id": "0xce21504e01be97d9",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x8f90016783b34d34",
+    "start_time": "2022-07-14T13:48:44.758174Z",
+    "end_time": "2022-07-14T13:48:45.768694Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xe72f2b7d7a52ce39449af57ec765d4bf",
+        "span_id": "0x8f90016783b34d34",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:44.758030Z",
+    "end_time": "2022-07-14T13:48:45.768740Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x25ece3a4ccc476b08d5e9c5e63bd121a",
+        "span_id": "0x08babd3d0c834110",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xe4c7ae4c4c72b83e",
+    "start_time": "2022-07-14T13:48:45.768900Z",
+    "end_time": "2022-07-14T13:48:46.774728Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x25ece3a4ccc476b08d5e9c5e63bd121a",
+        "span_id": "0xe4c7ae4c4c72b83e",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:45.768834Z",
+    "end_time": "2022-07-14T13:48:46.774774Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xa125b119a78fa786825b669031d8f79b",
+        "span_id": "0x936fb0dc5b561326",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x79e6462c3325586a",
+    "start_time": "2022-07-14T13:48:46.774958Z",
+    "end_time": "2022-07-14T13:48:47.780963Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xa125b119a78fa786825b669031d8f79b",
+        "span_id": "0x79e6462c3325586a",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:46.774881Z",
+    "end_time": "2022-07-14T13:48:47.781005Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xfe95e35888c508eba525ed7d380cd45c",
+        "span_id": "0x19bfbbad5a20bcc5",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x025bd4590848a944",
+    "start_time": "2022-07-14T13:48:47.781163Z",
+    "end_time": "2022-07-14T13:48:48.787898Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xfe95e35888c508eba525ed7d380cd45c",
+        "span_id": "0x025bd4590848a944",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:47.781099Z",
+    "end_time": "2022-07-14T13:48:48.787976Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x53829883edb40be92ab309dce3b6932c",
+        "span_id": "0xfec6b05369a37ce0",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x5a32686daba42e5f",
+    "start_time": "2022-07-14T13:48:48.788341Z",
+    "end_time": "2022-07-14T13:48:49.799365Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x53829883edb40be92ab309dce3b6932c",
+        "span_id": "0x5a32686daba42e5f",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:48.788179Z",
+    "end_time": "2022-07-14T13:48:49.799444Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x01ee3d191610021d05759bd2271dc3b9",
+        "span_id": "0xf8b358f7de8c9063",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x2ea4f44b1a625852",
+    "start_time": "2022-07-14T13:48:49.799767Z",
+    "end_time": "2022-07-14T13:48:50.806592Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x01ee3d191610021d05759bd2271dc3b9",
+        "span_id": "0x2ea4f44b1a625852",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:49.799627Z",
+    "end_time": "2022-07-14T13:48:50.806672Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xd9c1771619881c277da21f36e2e040b1",
+        "span_id": "0x76a585d127b4a9ef",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x838830259b00181b",
+    "start_time": "2022-07-14T13:48:50.806994Z",
+    "end_time": "2022-07-14T13:48:51.817453Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xd9c1771619881c277da21f36e2e040b1",
+        "span_id": "0x838830259b00181b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:50.806855Z",
+    "end_time": "2022-07-14T13:48:51.817509Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xcaf17ac0c71f31478199c215fbc81296",
+        "span_id": "0x619809c5b4f567a0",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xcd7cf257126a840f",
+    "start_time": "2022-07-14T13:48:51.817726Z",
+    "end_time": "2022-07-14T13:48:52.827029Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xcaf17ac0c71f31478199c215fbc81296",
+        "span_id": "0xcd7cf257126a840f",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:51.817635Z",
+    "end_time": "2022-07-14T13:48:52.827069Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xee0674dd81e11ff36c2ffe4bae84f29d",
+        "span_id": "0xfdbb614749e0a91b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xf3727d33c954ce3b",
+    "start_time": "2022-07-14T13:48:52.827222Z",
+    "end_time": "2022-07-14T13:48:53.837123Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xee0674dd81e11ff36c2ffe4bae84f29d",
+        "span_id": "0xf3727d33c954ce3b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:52.827161Z",
+    "end_time": "2022-07-14T13:48:53.837202Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xeb6986db3cbec1665a4bdeaa9ef1daaa",
+        "span_id": "0x36f1a2fdd6a25a0e",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x1400a00a5ac9ba65",
+    "start_time": "2022-07-14T13:48:53.837529Z",
+    "end_time": "2022-07-14T13:48:54.845032Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xeb6986db3cbec1665a4bdeaa9ef1daaa",
+        "span_id": "0x1400a00a5ac9ba65",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:53.837389Z",
+    "end_time": "2022-07-14T13:48:54.845114Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xb48d167ab90f1e09dd5894999259c3be",
+        "span_id": "0xb1af931f00a0570a",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x4ab6293fe294b4c2",
+    "start_time": "2022-07-14T13:48:54.845447Z",
+    "end_time": "2022-07-14T13:48:55.856474Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xb48d167ab90f1e09dd5894999259c3be",
+        "span_id": "0x4ab6293fe294b4c2",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:54.845304Z",
+    "end_time": "2022-07-14T13:48:55.856553Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x190f05f95a08e6fee5510f95881c1486",
+        "span_id": "0xb310bd86f0d34ce3",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xe41e94f0d77d615d",
+    "start_time": "2022-07-14T13:48:55.856873Z",
+    "end_time": "2022-07-14T13:48:56.867018Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x190f05f95a08e6fee5510f95881c1486",
+        "span_id": "0xe41e94f0d77d615d",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:55.856736Z",
+    "end_time": "2022-07-14T13:48:56.867073Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x3c2b803127b30304cb0d0d0e9350c561",
+        "span_id": "0xe45f3984875bcf09",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xcefaee5af899788e",
+    "start_time": "2022-07-14T13:48:56.867303Z",
+    "end_time": "2022-07-14T13:48:57.875662Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x3c2b803127b30304cb0d0d0e9350c561",
+        "span_id": "0xcefaee5af899788e",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:56.867200Z",
+    "end_time": "2022-07-14T13:48:57.875704Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x5e9b3a1d526bf54cc712d2238b2a98e6",
+        "span_id": "0xb8c19f9c426cafa5",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xdabe9b3696de0e2d",
+    "start_time": "2022-07-14T13:48:57.875842Z",
+    "end_time": "2022-07-14T13:48:58.882241Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x5e9b3a1d526bf54cc712d2238b2a98e6",
+        "span_id": "0xdabe9b3696de0e2d",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:57.875787Z",
+    "end_time": "2022-07-14T13:48:58.882297Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x62998cc67766c401f1e900a48075e129",
+        "span_id": "0x63077e2bb96891d9",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x9f336692ebe59568",
+    "start_time": "2022-07-14T13:48:58.882534Z",
+    "end_time": "2022-07-14T13:48:59.895587Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x62998cc67766c401f1e900a48075e129",
+        "span_id": "0x9f336692ebe59568",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:58.882431Z",
+    "end_time": "2022-07-14T13:48:59.895625Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x1ecb3d15d1f90aa88e243b14c30f26ca",
+        "span_id": "0x4090a608d42f1db9",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x39baf63919e837bb",
+    "start_time": "2022-07-14T13:48:59.895776Z",
+    "end_time": "2022-07-14T13:49:00.901840Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x1ecb3d15d1f90aa88e243b14c30f26ca",
+        "span_id": "0x39baf63919e837bb",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:48:59.895716Z",
+    "end_time": "2022-07-14T13:49:00.901891Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x7695112fbbb3ab1b8e193acc61fea058",
+        "span_id": "0xa8a44045ccd1d1ef",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x2ca181aa4e15d3ed",
+    "start_time": "2022-07-14T13:49:00.902073Z",
+    "end_time": "2022-07-14T13:49:01.911692Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x7695112fbbb3ab1b8e193acc61fea058",
+        "span_id": "0x2ca181aa4e15d3ed",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:00.901996Z",
+    "end_time": "2022-07-14T13:49:01.911824Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x4371041b5bbd43aeaae73f4392ece017",
+        "span_id": "0x6aeea7365e65d369",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x043883eea28b3099",
+    "start_time": "2022-07-14T13:49:01.912050Z",
+    "end_time": "2022-07-14T13:49:02.919602Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x4371041b5bbd43aeaae73f4392ece017",
+        "span_id": "0x043883eea28b3099",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:01.911956Z",
+    "end_time": "2022-07-14T13:49:02.919643Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x5d8cc0280e6975468888638f6dc402df",
+        "span_id": "0xdb4b9663cd00152d",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xa0c2d95c47c4d07c",
+    "start_time": "2022-07-14T13:49:02.919790Z",
+    "end_time": "2022-07-14T13:49:03.930002Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x5d8cc0280e6975468888638f6dc402df",
+        "span_id": "0xa0c2d95c47c4d07c",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:02.919732Z",
+    "end_time": "2022-07-14T13:49:03.930085Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x5c989cb64391bfdfd2153914b259dec9",
+        "span_id": "0xc5b0b44e456bb831",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xa617fb3eb9c9e6d3",
+    "start_time": "2022-07-14T13:49:03.930432Z",
+    "end_time": "2022-07-14T13:49:04.939278Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x5c989cb64391bfdfd2153914b259dec9",
+        "span_id": "0xa617fb3eb9c9e6d3",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:03.930281Z",
+    "end_time": "2022-07-14T13:49:04.939360Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xa1116d56c7d4390e2b0202a9e24cb4cb",
+        "span_id": "0x18f9b805d692c5c8",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xdc8959de9e3cd890",
+    "start_time": "2022-07-14T13:49:04.939679Z",
+    "end_time": "2022-07-14T13:49:05.948323Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xa1116d56c7d4390e2b0202a9e24cb4cb",
+        "span_id": "0xdc8959de9e3cd890",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:04.939543Z",
+    "end_time": "2022-07-14T13:49:05.948390Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x3230f49056f47c22c1902ba7a4b862a0",
+        "span_id": "0xb305d887d322808b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x1b295368c06d4d34",
+    "start_time": "2022-07-14T13:49:05.948667Z",
+    "end_time": "2022-07-14T13:49:06.956272Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x3230f49056f47c22c1902ba7a4b862a0",
+        "span_id": "0x1b295368c06d4d34",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:05.948542Z",
+    "end_time": "2022-07-14T13:49:06.956323Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x5079c42e4cc439e2bba6bad92ec6d191",
+        "span_id": "0x0ee5480508ccd610",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xff85616ff879de28",
+    "start_time": "2022-07-14T13:49:06.956519Z",
+    "end_time": "2022-07-14T13:49:07.968412Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x5079c42e4cc439e2bba6bad92ec6d191",
+        "span_id": "0xff85616ff879de28",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:06.956440Z",
+    "end_time": "2022-07-14T13:49:07.968459Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x87e47c78420955b061a4b75e22e18203",
+        "span_id": "0x5fca6ccbade6b417",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x7fbc3f0edffaedc2",
+    "start_time": "2022-07-14T13:49:07.968645Z",
+    "end_time": "2022-07-14T13:49:08.977147Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x87e47c78420955b061a4b75e22e18203",
+        "span_id": "0x7fbc3f0edffaedc2",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:07.968570Z",
+    "end_time": "2022-07-14T13:49:08.977229Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xad157edba3c1f843fa6d1fafac046d9b",
+        "span_id": "0x11067a4ec593c7ec",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x813a9a9db25c48fb",
+    "start_time": "2022-07-14T13:49:08.977551Z",
+    "end_time": "2022-07-14T13:49:09.988365Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xad157edba3c1f843fa6d1fafac046d9b",
+        "span_id": "0x813a9a9db25c48fb",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:08.977417Z",
+    "end_time": "2022-07-14T13:49:09.988448Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xd62798a4978110be7d0d7929ab5ce53e",
+        "span_id": "0xa3058ea4bd07b09b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xe14eef17a8a8c9d8",
+    "start_time": "2022-07-14T13:49:09.988773Z",
+    "end_time": "2022-07-14T13:49:10.999607Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xd62798a4978110be7d0d7929ab5ce53e",
+        "span_id": "0xe14eef17a8a8c9d8",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:09.988634Z",
+    "end_time": "2022-07-14T13:49:10.999648Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x51ff9a589d7bcff02c0d5cd0a0bbbbf9",
+        "span_id": "0x1c067feb629329f0",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x7410ff2763e1a99e",
+    "start_time": "2022-07-14T13:49:10.999791Z",
+    "end_time": "2022-07-14T13:49:12.005092Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x51ff9a589d7bcff02c0d5cd0a0bbbbf9",
+        "span_id": "0x7410ff2763e1a99e",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:10.999734Z",
+    "end_time": "2022-07-14T13:49:12.005136Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x770a21d1056ed4fd847f87ebc1cfc4b8",
+        "span_id": "0x337d495c3df22552",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x08de9f4dfb8f393f",
+    "start_time": "2022-07-14T13:49:12.005313Z",
+    "end_time": "2022-07-14T13:49:13.014621Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x770a21d1056ed4fd847f87ebc1cfc4b8",
+        "span_id": "0x08de9f4dfb8f393f",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:12.005237Z",
+    "end_time": "2022-07-14T13:49:13.014706Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x32c0376441d68500a136c00f5aa6dcfb",
+        "span_id": "0xb292dc2f80c5d6a2",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x93e3eca0580f9c0b",
+    "start_time": "2022-07-14T13:49:13.015135Z",
+    "end_time": "2022-07-14T13:49:14.021912Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x32c0376441d68500a136c00f5aa6dcfb",
+        "span_id": "0x93e3eca0580f9c0b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:13.014979Z",
+    "end_time": "2022-07-14T13:49:14.022005Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xd079b508a10dce6f4f9a0f751d4ecfbe",
+        "span_id": "0x88e9c26104f76642",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xfd373ea7332ee295",
+    "start_time": "2022-07-14T13:49:14.022252Z",
+    "end_time": "2022-07-14T13:49:15.032965Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xd079b508a10dce6f4f9a0f751d4ecfbe",
+        "span_id": "0xfd373ea7332ee295",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:14.022155Z",
+    "end_time": "2022-07-14T13:49:15.033030Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x8c3186a512a0459190e18a87b0cd3828",
+        "span_id": "0x8ad1f634f0a6f153",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x3cfb1d9d3c1a76a0",
+    "start_time": "2022-07-14T13:49:15.033278Z",
+    "end_time": "2022-07-14T13:49:16.042129Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x8c3186a512a0459190e18a87b0cd3828",
+        "span_id": "0x3cfb1d9d3c1a76a0",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:15.033173Z",
+    "end_time": "2022-07-14T13:49:16.042184Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x22dbb4fbacd6ad7e6b167aed33a96ce4",
+        "span_id": "0xb1a11d009d3f48a7",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x63bbe9a522ab80f8",
+    "start_time": "2022-07-14T13:49:16.042401Z",
+    "end_time": "2022-07-14T13:49:17.052281Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x22dbb4fbacd6ad7e6b167aed33a96ce4",
+        "span_id": "0x63bbe9a522ab80f8",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:16.042327Z",
+    "end_time": "2022-07-14T13:49:17.052410Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x896c09f48728a1bb22ac739f7fe1e3dd",
+        "span_id": "0xfb902a833428c737",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x2bd192b6cdee5789",
+    "start_time": "2022-07-14T13:49:17.052849Z",
+    "end_time": "2022-07-14T13:49:18.061339Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x896c09f48728a1bb22ac739f7fe1e3dd",
+        "span_id": "0x2bd192b6cdee5789",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:17.052688Z",
+    "end_time": "2022-07-14T13:49:18.061478Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xf20919fc30d29ef86a9d98fd68ef0971",
+        "span_id": "0xc8f0849ed61721c6",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xa79ae76cf1385a95",
+    "start_time": "2022-07-14T13:49:18.061817Z",
+    "end_time": "2022-07-14T13:49:19.071330Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xf20919fc30d29ef86a9d98fd68ef0971",
+        "span_id": "0xa79ae76cf1385a95",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:18.061675Z",
+    "end_time": "2022-07-14T13:49:19.071413Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x750d9877ce26ce38097dfe685fa9d83a",
+        "span_id": "0x5c2d9328c62c4378",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x1c2b00dbf2df15a7",
+    "start_time": "2022-07-14T13:49:19.071625Z",
+    "end_time": "2022-07-14T13:49:20.079320Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x750d9877ce26ce38097dfe685fa9d83a",
+        "span_id": "0x1c2b00dbf2df15a7",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:19.071548Z",
+    "end_time": "2022-07-14T13:49:20.079371Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x082d4260886c3cb678c7b916e6c872b2",
+        "span_id": "0x30f1935f2a1d43aa",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xa73156ff22627464",
+    "start_time": "2022-07-14T13:49:20.079534Z",
+    "end_time": "2022-07-14T13:49:21.088534Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x082d4260886c3cb678c7b916e6c872b2",
+        "span_id": "0xa73156ff22627464",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:20.079471Z",
+    "end_time": "2022-07-14T13:49:21.088575Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x7858e3be180fcdb2ab60ba47bb8bb3f6",
+        "span_id": "0x9e9b5fb47fc6d8aa",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x7d52238e15d9f6eb",
+    "start_time": "2022-07-14T13:49:21.088730Z",
+    "end_time": "2022-07-14T13:49:22.096679Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x7858e3be180fcdb2ab60ba47bb8bb3f6",
+        "span_id": "0x7d52238e15d9f6eb",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:21.088667Z",
+    "end_time": "2022-07-14T13:49:22.096724Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x0209ae1e1faa585fbaf7d54760e342cd",
+        "span_id": "0xbf8f0aa60d731efb",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x804241f286f299e6",
+    "start_time": "2022-07-14T13:49:22.096903Z",
+    "end_time": "2022-07-14T13:49:23.104829Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x0209ae1e1faa585fbaf7d54760e342cd",
+        "span_id": "0x804241f286f299e6",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:22.096829Z",
+    "end_time": "2022-07-14T13:49:23.104870Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xf8f268af63680cdfa61f493473bbb9ff",
+        "span_id": "0x3068cb5bbc73ee79",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xeac2f465c694fc86",
+    "start_time": "2022-07-14T13:49:23.105018Z",
+    "end_time": "2022-07-14T13:49:24.114100Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xf8f268af63680cdfa61f493473bbb9ff",
+        "span_id": "0xeac2f465c694fc86",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:23.104959Z",
+    "end_time": "2022-07-14T13:49:24.114143Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x863272a4991f245e181938240818871a",
+        "span_id": "0xd9491e06a405bf6c",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x5c6ea9a1966a8c13",
+    "start_time": "2022-07-14T13:49:24.114298Z",
+    "end_time": "2022-07-14T13:49:25.119564Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x863272a4991f245e181938240818871a",
+        "span_id": "0x5c6ea9a1966a8c13",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:24.114236Z",
+    "end_time": "2022-07-14T13:49:25.119601Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x118ca37ef624f02747786b74ef4e6ba5",
+        "span_id": "0x2d940c2e7f9e26fe",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x5612ebe0ca1cc472",
+    "start_time": "2022-07-14T13:49:25.119748Z",
+    "end_time": "2022-07-14T13:49:26.125132Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x118ca37ef624f02747786b74ef4e6ba5",
+        "span_id": "0x5612ebe0ca1cc472",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:25.119688Z",
+    "end_time": "2022-07-14T13:49:26.125216Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x844790f94c689d450838b27954a7928c",
+        "span_id": "0x926f234693c1dcb3",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x9026b68a521d6b33",
+    "start_time": "2022-07-14T13:49:26.125544Z",
+    "end_time": "2022-07-14T13:49:27.133000Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x844790f94c689d450838b27954a7928c",
+        "span_id": "0x9026b68a521d6b33",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:26.125405Z",
+    "end_time": "2022-07-14T13:49:27.133086Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x7926645f450da765f7bb2261839a9127",
+        "span_id": "0x4f78a23ce9721e81",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xdb79a4abc789ab50",
+    "start_time": "2022-07-14T13:49:27.133446Z",
+    "end_time": "2022-07-14T13:49:28.140717Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x7926645f450da765f7bb2261839a9127",
+        "span_id": "0xdb79a4abc789ab50",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:27.133287Z",
+    "end_time": "2022-07-14T13:49:28.140799Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x99b6df906dc5c651a2fc5d627c45577d",
+        "span_id": "0xbc3eed3119c5f389",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x5453ad31beb04df7",
+    "start_time": "2022-07-14T13:49:28.141158Z",
+    "end_time": "2022-07-14T13:49:29.151050Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x99b6df906dc5c651a2fc5d627c45577d",
+        "span_id": "0x5453ad31beb04df7",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:28.141001Z",
+    "end_time": "2022-07-14T13:49:29.151144Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xe978e08cbb6a76a5749682906e84c8e3",
+        "span_id": "0xf945fc3d5683784b",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xb8f7aa2726c50ec9",
+    "start_time": "2022-07-14T13:49:29.151512Z",
+    "end_time": "2022-07-14T13:49:30.158799Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xe978e08cbb6a76a5749682906e84c8e3",
+        "span_id": "0xb8f7aa2726c50ec9",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:29.151348Z",
+    "end_time": "2022-07-14T13:49:30.158881Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xd5c9ec8c0c609b6c4e663fc05643a259",
+        "span_id": "0xd65769fad99ff893",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x083956dd52c69410",
+    "start_time": "2022-07-14T13:49:30.159214Z",
+    "end_time": "2022-07-14T13:49:31.170584Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xd5c9ec8c0c609b6c4e663fc05643a259",
+        "span_id": "0x083956dd52c69410",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:30.159073Z",
+    "end_time": "2022-07-14T13:49:31.170676Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x2d2f2db46eebaa3a70f77d34ed70b885",
+        "span_id": "0xfb843002d0ee7f29",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x585d6623cd6d92b6",
+    "start_time": "2022-07-14T13:49:31.171016Z",
+    "end_time": "2022-07-14T13:49:32.178987Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x2d2f2db46eebaa3a70f77d34ed70b885",
+        "span_id": "0x585d6623cd6d92b6",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:31.170871Z",
+    "end_time": "2022-07-14T13:49:32.179069Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xb1b805dd73b27ad08b0e515c4e9edb6f",
+        "span_id": "0xb25d131e400ce5ef",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x20eda3ca185a5a3d",
+    "start_time": "2022-07-14T13:49:32.179393Z",
+    "end_time": "2022-07-14T13:49:33.190705Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xb1b805dd73b27ad08b0e515c4e9edb6f",
+        "span_id": "0x20eda3ca185a5a3d",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:32.179254Z",
+    "end_time": "2022-07-14T13:49:33.190756Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x56fd16d934633f9d2c48ccd399cd996d",
+        "span_id": "0xc34ce08515de1496",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xb819cdf3a61c8ec4",
+    "start_time": "2022-07-14T13:49:33.190924Z",
+    "end_time": "2022-07-14T13:49:34.196924Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x56fd16d934633f9d2c48ccd399cd996d",
+        "span_id": "0xb819cdf3a61c8ec4",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:33.190857Z",
+    "end_time": "2022-07-14T13:49:34.197003Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x2f2aa2404ad1dd7cac3d916993c75aa4",
+        "span_id": "0x893cf8ddb5b1039e",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x2d36b744a34e7be1",
+    "start_time": "2022-07-14T13:49:34.197323Z",
+    "end_time": "2022-07-14T13:49:35.206212Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x2f2aa2404ad1dd7cac3d916993c75aa4",
+        "span_id": "0x2d36b744a34e7be1",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:34.197187Z",
+    "end_time": "2022-07-14T13:49:35.206271Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x91579c274855c394907dc652c09346c5",
+        "span_id": "0xad4b769cd868d601",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x381259f0342cc9ca",
+    "start_time": "2022-07-14T13:49:35.206494Z",
+    "end_time": "2022-07-14T13:49:36.217001Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x91579c274855c394907dc652c09346c5",
+        "span_id": "0x381259f0342cc9ca",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:35.206401Z",
+    "end_time": "2022-07-14T13:49:36.217083Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x505ccd39812e798e243d0b6d66bde8ab",
+        "span_id": "0xc2101bbbbdd00a37",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xf81a0136a9c83cf8",
+    "start_time": "2022-07-14T13:49:36.217407Z",
+    "end_time": "2022-07-14T13:49:37.228087Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x505ccd39812e798e243d0b6d66bde8ab",
+        "span_id": "0xf81a0136a9c83cf8",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:36.217268Z",
+    "end_time": "2022-07-14T13:49:37.228168Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x27aa5593d9ef33a433d3d832e90220c5",
+        "span_id": "0xcb4da002d5a16527",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x415bf23cda9286f9",
+    "start_time": "2022-07-14T13:49:37.228489Z",
+    "end_time": "2022-07-14T13:49:38.239007Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x27aa5593d9ef33a433d3d832e90220c5",
+        "span_id": "0x415bf23cda9286f9",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:37.228352Z",
+    "end_time": "2022-07-14T13:49:38.239064Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+...client request complete
+...client request complete
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x702f9b9669e74afa8c28830b1d22f1ca",
+        "span_id": "0xa65e5b49be5ba957",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xa60f94ebf54a0253",
+    "start_time": "2022-07-14T13:49:38.239282Z",
+    "end_time": "2022-07-14T13:49:39.248536Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x702f9b9669e74afa8c28830b1d22f1ca",
+        "span_id": "0xa60f94ebf54a0253",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:38.239191Z",
+    "end_time": "2022-07-14T13:49:39.248596Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0xd527e53680325d5478cb602cd201c43d",
+        "span_id": "0x078999c855469871",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0x35d9299437e7b1ed",
+    "start_time": "2022-07-14T13:49:39.248887Z",
+    "end_time": "2022-07-14T13:49:40.256676Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0xd527e53680325d5478cb602cd201c43d",
+        "span_id": "0x35d9299437e7b1ed",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:39.248746Z",
+    "end_time": "2022-07-14T13:49:40.256760Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client-server",
+    "context": {
+        "trace_id": "0x803aac2a8c4d1056a3140e579905f340",
+        "span_id": "0x934387ce27001e7f",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": "0xe315a973b9a7dd98",
+    "start_time": "2022-07-14T13:49:40.257094Z",
+    "end_time": "2022-07-14T13:49:40.516779Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}
+{
+    "name": "client",
+    "context": {
+        "trace_id": "0x803aac2a8c4d1056a3140e579905f340",
+        "span_id": "0xe315a973b9a7dd98",
+        "trace_state": "[]"
+    },
+    "kind": "SpanKind.INTERNAL",
+    "parent_id": null,
+    "start_time": "2022-07-14T13:49:40.256952Z",
+    "end_time": "2022-07-14T13:49:40.516823Z",
+    "status": {
+        "status_code": "UNSET"
+    },
+    "attributes": {},
+    "events": [],
+    "links": [],
+    "resource": {
+        "telemetry.sdk.language": "python",
+        "telemetry.sdk.name": "opentelemetry",
+        "telemetry.sdk.version": "1.11.1",
+        "deployment.environment": "tj-devlab",
+        "service.name": "django-example-client"
+    }
+}

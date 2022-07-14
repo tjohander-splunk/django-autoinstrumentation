@@ -100,7 +100,7 @@ The Client outputs spans to the console:
 ```
 
 # Troublehsooting Steps
-* Tried downgrading to Django LTS 
+* Tried downgrading to Django LTS 3.2.14 
 * Tried manual instrumentations with:
 ```python
 from opentelemetry.instrumentation.django import DjangoInstrumentor <-----------

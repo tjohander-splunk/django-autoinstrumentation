@@ -1,7 +1,7 @@
 # Problem
 This is cloned from [opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)
 
-The Splunk Opentelemetry Python auto-insturmentation does not send traces in to O
+The Splunk Opentelemetry Python auto-insturmentation does not send traces from inbound HTTP requests in to O11y Cloud
 
 # Otel Collector Setup
 A Collector instance is running as a Docker container, bootstrapped with `docker-compose`.  This is the config.  Enviroment variables provided in an `.env` file, config provided in a mounted local volume. The setup has been validated to work with other local, instrumented applications.
